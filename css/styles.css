@@ -7,6 +7,16 @@ img {
    
 }
 
+footer
+{
+    padding-top: 20px;
+}
+
+footer a
+{
+    color:gray;
+}
+
 .section
 {
     margin: 40px;
@@ -22,3 +32,8 @@ img {
     max-width: 100%;
     height: auto;
 }*/
+
+.divider
+{
+    margin: 20px;
+}
