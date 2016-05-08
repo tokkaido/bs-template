@@ -1,0 +1,24 @@
+
+img {
+   /* border: 0;
+    page-break-inside: avoid;
+    max-width: 100% !important;
+    vertical-align: middle;*/
+   
+}
+
+.section
+{
+    margin: 40px;
+}
+
+.img-section
+{
+    padding: 40px;
+}
+/*.img-responsive
+{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}*/
